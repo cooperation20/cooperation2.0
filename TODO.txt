@@ -1,0 +1,10 @@
+============= cooperation 2.0 . org
+
+o dissect / study source code of http://jquerygeo.com/
+
+o how to add a click handler to these circles?
+
+... fuck shit... 
+
+it's operating by putting a javascript generated png picture over openstreetmap.
+
