@@ -1,10 +1,22 @@
 ============= cooperation 2.0 . org
 
+o orts-suche muss funktionieren
+oo liste mit gps koordinaten und orten deutschland
+
 o dissect / study source code of http://jquerygeo.com/
 
-o how to add a click handler to these circles?
+ok how to add a click handler to these circles?
 
-... fuck shit... 
+fuck shit: it's operating by putting a javascript generated png picture over openstreetmap.
+http://127.0.0.1:8020/GEOAPP_JQUERY_MAP_PLUGIN/docs/examples/center.html
 
-it's operating by putting a javascript generated png picture over openstreetmap.
+geoJSON 2 GPS
 
+http://geojson.org/geojson-spec.html#positions
+
+http://gpso.de/maps/
+
+http://wiki.openstreetmap.org/wiki/DE:Main_Page
+http://wiki.openstreetmap.org/wiki/DE:Anwender#Grundlagen_und_Ausblick
+
+http://wiki.openstreetmap.org/wiki/Converting_to_WGS84
